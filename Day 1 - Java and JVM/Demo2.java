@@ -64,8 +64,5 @@ public class Demo2 {
        }
        return true;
     }
-
-    public static <T> T getElementAt(T[] arr, int index){
-        
-    }
+    
 }
